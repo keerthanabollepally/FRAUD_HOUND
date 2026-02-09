@@ -1,0 +1,29 @@
+[
+    {
+        "script_id": "scam_telegram_fee",
+        "scam_trigger": "payment_request",
+        "messages": [
+            "Congratulations! You are selected.",
+            "To activate your job ID, please pay the onboarding fee.",
+            "Contact our HR on Telegram immediately to confirm your slot."
+        ]
+    },
+    {
+        "script_id": "scam_whatsapp_training",
+        "scam_trigger": "training_payment",
+        "messages": [
+            "You are shortlisted for our part-time job.",
+            "Training is mandatory and requires a refundable security deposit.",
+            "Send the payment screenshot on WhatsApp to begin work."
+        ]
+    },
+    {
+        "script_id": "legit_platform_job",
+        "scam_trigger": "none",
+        "messages": [
+            "Thank you for applying.",
+            "Please complete your application through the official platform portal.",
+            "No payment is required."
+        ]
+    }
+]

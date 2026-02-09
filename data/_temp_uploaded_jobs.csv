@@ -1,0 +1,16 @@
+job_id,platform,job_title,description,payment_offer,contact_method,upfront_payment,urgency_level,label
+1,Upwork,Python Script Fix,Fix a small bug in Python automation script,?1500,In-platform chat,No,Low,legit
+2,Freelancer,Data Entry Job,Simple data entry work no experience required earn fast,?1200/day,Telegram,Yes,High,scam
+3,LocalApp,Logo Designer Needed,Design logo for early stage startup,?3000/project,Email,No,Medium,legit
+4,LocalApp,Work From Home Job,Part time job earn money daily registration mandatory,?2000/day,WhatsApp,Yes,High,scam
+5,Upwork,Web Scraping Task,Scrape product prices from ecommerce website,?2500,In-platform chat,No,Low,legit
+6,Freelancer,Typing Job Urgent,No skills required urgent hiring limited slots,?1800/day,Telegram,Yes,High,scam
+7,LocalApp,Social Media Posting Job,Post ads daily payment guaranteed,?1500/day,WhatsApp,Yes,High,scam
+8,Upwork,ML Data Labeling,Label images for ML dataset training,?12/image,In-platform chat,No,Medium,legit
+9,Freelancer,Virtual Assistant Needed,Manage emails and schedules for client,?400/hour,Email,No,Medium,legit
+10,LocalApp,Online Form Filling Job,Fill simple forms earn instantly payout same day,?2500/day,Telegram,Yes,High,scam
+11,Upwork,API Integration Task,Integrate REST API with frontend app,?5000/project,In-platform chat,No,Low,legit
+12,Freelancer,Excel Work From Home,Simple excel work training fee applicable,?2000/day,WhatsApp,Yes,High,scam
+13,LocalApp,Content Writer Required,Write blog articles for tech website,?3/word,Email,No,Low,legit
+14,LocalApp,Online Survey Job,Complete surveys earn daily payout join now,?1800/day,Telegram,Yes,High,scam
+15,Upwork,Frontend UI Fixes,Fix UI bugs in React application,?3500/project,In-platform chat,No,Low,legit
